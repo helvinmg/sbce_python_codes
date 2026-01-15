@@ -1,0 +1,11 @@
+Read a string from user and display the following pattern
+input: abc
+ouput:
+aaa
+bb
+c
+
+input: xy
+ouput:
+xx
+y

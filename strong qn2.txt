@@ -1,0 +1,6 @@
+Read 2 strings and convert them to a single string by appending alternative characters. Do only if both strings are of equal size.
+
+input1- abcd
+input2 - pqrs
+
+output: apbqcrds
