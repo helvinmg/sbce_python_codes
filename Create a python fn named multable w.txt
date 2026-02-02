@@ -1,0 +1,10 @@
+Create a python fn named multable which takes 2 arguments m & n
+display table of m upto n times
+
+multable(2,5)
+
+1x2=2
+2x2=4
+3x2=6
+4x2=8
+5x2=10

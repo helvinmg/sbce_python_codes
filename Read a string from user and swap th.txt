@@ -1,0 +1,4 @@
+Read a string from user and swap the cases using loop
+
+input: aBcdE
+output: AbCDe

@@ -1,0 +1,10 @@
+Achieve the following using slicing
+
+input: abcedf
+output: cbafde
+
+input: pqrst
+output: qptsr
+
+input: 123456
+output: 321654
